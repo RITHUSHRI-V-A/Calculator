@@ -21,7 +21,7 @@ This calculator allows users to perform basic arithmetic operations including ad
 
 ## 🔗 Demo
 
-You can view a live demo of the project [here].
+You can view a live demo of the project [here]( https://rithushri-v-a.github.io/Calculator/).
 
 ## 🛠️ Technologies Used
 
