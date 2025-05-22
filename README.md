@@ -8,7 +8,7 @@ This calculator allows users to perform basic arithmetic operations including ad
 
 ## 🖼️ Image
 
-<img src="image.png" width="600" height="400" />
+![Calculator Image](image.png)
 
 
 ## 🚀 Features
